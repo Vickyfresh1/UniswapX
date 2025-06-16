@@ -1,0 +1,9 @@
+{
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.limit.enabled": true,
+    "workbench.editor.limit.excludeDirty": true,
+    "workbench.editor.limit.perEditorGroup": true,
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ]
+}
